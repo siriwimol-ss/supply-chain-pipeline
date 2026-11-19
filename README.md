@@ -50,7 +50,7 @@ Python (pandas, SQLAlchemy, gspread), PostgreSQL 16 บน Docker, Google Sheets
 
 1. โคลนโปรเจกต์
    ```bash
-   git clone <https://github.com/siriwimol-ss/supply-chain-pipeline>
+   git clone https://github.com/siriwimol-ss/supply-chain-pipeline
    cd supply-chain-pipeline
    ```
 2. ดาวน์โหลด `supply_chain_disruption_recovery.csv` จาก Kaggle (ลิงก์ด้านบน) แล้ววางในโฟลเดอร์ `data/`
