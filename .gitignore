@@ -1,0 +1,13 @@
+# ความลับ ห้ามขึ้น GitHub
+.env
+credentials.json
+
+# ไฟล์ที่เครื่องสร้างเอง
+venv/
+__pycache__/
+.DS_Store
+Icon?
+.kombai/
+
+# ข้อมูลดิบจาก Kaggle (ให้ผู้ใช้โหลดเองตาม README)
+data/*.csv
